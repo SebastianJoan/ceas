@@ -7,6 +7,7 @@ import NavBar from "@/components/NavBar";
 import moto from '../../../public/img/moto.png';
 import carro from '../../../public/img/carro.png';
 import camioneta from '../../../public/img/camioneta.png';
+import Head from "next/head";
 
 export default function Home() {
 
@@ -38,7 +39,20 @@ export default function Home() {
     ]
 
     return (
-        <>
+        <main>
+            <Head>
+                <link rel="shortcut icon" href="../img/LogoCeas.jpg" />
+                <title> CEAS Centro de Enseñanza Automovilística Santander </title>
+                <meta name="description" content="
+                    Somos un equipo de trabajo conformado por personas profesionales, capacitadas y comprometidas con la calidad, aportando a la
+                    comunidad en la formación de conductores de motocicletas y carros. Con un enfoque a satisfacer las necesidades de nuestros
+                    clientes.
+                    Somos un establecimiento docente de naturaleza privada, tenemos actividad permanente de instrucción de
+                    personas que aspiran a obtener el certificado de capacitación en conducción.
+                    Utilizamos estrategia pedagógica que propendan por una formación integral con conciencia social y democrática.
+                    Nos identificamos como una empresa líder y reconocida por su compromiso con la educación y la seguridad vial"
+                />
+            </Head>
             <InfoContainer/>
             <NavBar/>
             <Carousel/>
@@ -76,6 +90,6 @@ export default function Home() {
                 </div>
             </div>
             <Footer/>
-        </>
+        </main>
     )
 }

@@ -22,13 +22,13 @@ export default function NavBar() {
                 <Link href='/' className='px-2 py-2 hover:bg-[#056635] hover:text-white rounded-md font-semibold '>
                     Inicio
                 </Link>
-                <Link href='/' className='px-2 py-2 hover:bg-[#056635] hover:text-white rounded-md font-semibold '>
+                <Link href='/about-us' className='px-2 py-2 hover:bg-[#056635] hover:text-white rounded-md font-semibold '>
                     Nosotros
                 </Link>
-                <Link href='/' className='px-2 py-2 hover:bg-[#056635] hover:text-white rounded-md font-semibold '>
+                <Link href='/services' className='px-2 py-2 hover:bg-[#056635] hover:text-white rounded-md font-semibold '>
                     Servicios
                 </Link>
-                <Link href='/' className='px-2 py-2 hover:bg-[#056635] hover:text-white rounded-md font-semibold '>
+                <Link href='/contact' className='px-2 py-2 hover:bg-[#056635] hover:text-white rounded-md font-semibold '>
                     Contacto
                 </Link>
             </div>
