@@ -41,7 +41,7 @@ export default function Home() {
     return (
         <main>
             <Head>
-                <link rel="shortcut icon" href="../img/LogoCeas.jpg" />
+                <link rel="shortcut icon" href="../img/transporte.png" />
                 <title> CEAS Centro de Enseñanza Automovilística Santander </title>
                 <meta name="description" content="
                     Somos un equipo de trabajo conformado por personas profesionales, capacitadas y comprometidas con la calidad, aportando a la
