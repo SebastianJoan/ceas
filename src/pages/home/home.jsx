@@ -57,7 +57,7 @@ export default function Home() {
             <NavBar/>
             <Carousel/>
             <FloatingActionButton/>
-            <div className="w-full h-auto px-[15%] py-10 gap-5 flex flex-col justify-center items-center justify-items-center ">
+            <div className=" w-full h-auto px-[15%] py-10 gap-5 flex flex-col justify-center items-center justify-items-center ">
                 <h2 className="font-semibold text-center text-2xl font-tittle">¡APRENDE CON LOS MEJORES PROFESIONALES!</h2>
                 <span className="text-center font-body font-semibold">
                     Somos una institución de educación para el trabajo y el desarrollo humano cuyo propósito es capacitar y 

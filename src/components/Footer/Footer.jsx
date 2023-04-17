@@ -14,19 +14,18 @@ export default function Footer() {
                     <h3 className='font-tittle text-green-500'>CEAS</h3>
                     <span className='font-body font-semibold text-white'>Centro de Enseñanza Automovilística de Santander.</span>
                     <span className='font-body font-semibold text-white'>302 384 2100</span>
-                    <span className='font-body font-semibold text-white'>Cr. 28 No. 47 - 65 Palmira</span>
-                </div>
-                <div className='flex flex-col just'>
-                    <h3 className='font-tittle text-green-500'>Nosotros</h3>
-                    <span className='font-body font-semibold text-white'>Quienes Somos</span>
-                    <span className='font-body font-semibold text-white'>Mision</span>
-                    <span className='font-body font-semibold text-white'>Vision</span>
+                    <span className='font-body font-semibold text-white'>Carrera 28 # 47-65 Barrio Palmira - Barrancabermeja - Colombia</span>
                 </div>
                 <div className='flex flex-col just'>
                     <h3 className='font-tittle text-green-500'>Contacto</h3>
-                    <span className='font-body font-semibold text-white'>Quienes Somos</span>
-                    <span className='font-body font-semibold text-white'>Mision</span>
-                    <span className='font-body font-semibold text-white'>Vision</span>
+                    <span className='font-body font-semibold text-white'>Telefono: 622 51 44</span>
+                    <span className='font-body font-semibold text-white'>Telefono: 611 02 12</span>
+                </div>
+                <div className='flex flex-col just'>
+                    <h3 className='font-tittle text-green-500'>Contacto</h3>
+                    <span className='font-body font-semibold text-white'> ceasbarranca@hotmail.com </span>
+                    <span className='font-body font-semibold text-white'>Celular: 302 235 03 04 </span>
+                    <span className='font-body font-semibold text-white'>Celular: 301 464 83 28 </span>
                 </div>
             </div>
             <div className='w-full bg-[#056635] px-16 py-4 text-white font-tittle font-semibold'>

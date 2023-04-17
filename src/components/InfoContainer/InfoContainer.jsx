@@ -20,7 +20,7 @@ export default function InfoContainer() {
                         height={20}
                         className='cursor-pointer'
                     />
-                    302 384 2100
+                    302 235 0304
                 </div>
                 <div className='flex justify-center items-center justify-items-center text-white gap-2'>
                     <Image
@@ -30,7 +30,7 @@ export default function InfoContainer() {
                         height={20}
                         className='cursor-pointer'
                     />
-                    302 384 2100
+                    301 464 8328 
                 </div>
                 <div className='flex justify-center items-center justify-items-center text-white gap-2'>
                     <Image
@@ -40,7 +40,7 @@ export default function InfoContainer() {
                         height={20}
                         className='cursor-pointer'
                     />
-                    correo@ceas.com
+                    ceasbarranca@hotmail.com
                 </div>
             </div>
             <div className='flex text-white justify-center items-center justify-items-center px-16 py-2 gap-4'>

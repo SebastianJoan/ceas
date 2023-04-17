@@ -33,7 +33,7 @@ export default function Contact() {
             </Head>
             <InfoContainer/>
             <NavBar/>
-            <div className="w-full h-auto flex flex-col px-[15%] gap-5 justify-center items-center justify-items-center mb-[40px]">
+            <div className=" mt-[40px] w-full h-auto flex flex-col px-[15%] gap-5 justify-center items-center justify-items-center mb-[40px]">
                 <h3 className="font-tittle text-3xl text-center text-[#056635] "> ¿QUIENES SOMOS? </h3>
                 <p className="text-justify font-body font-bold">
                     Somos un equipo de trabajo conformado por personas profesionales, capacitadas y comprometidas con la calidad, aportando a la
